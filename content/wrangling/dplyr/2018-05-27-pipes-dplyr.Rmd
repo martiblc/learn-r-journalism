@@ -273,7 +273,7 @@ labels_only_columns <- select(murders, contains("_label"))
 str(labels_only_columns)
 ```
 
-Check out all the neat `select()` options [here](https://dplyr.tidyverse.org/reference/select_helpers.html).
+Check out all the neat `select()` options [here](https://dplyr.tidyverse.org/reference/select.html).
 
 Great, let's move on to the next verb.
 
